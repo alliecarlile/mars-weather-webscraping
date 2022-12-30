@@ -31,12 +31,19 @@ Examine the data types of all the DataFrame columns. If necessary, cast (or conv
 The data was analyzed to answer the following questions, and a data visualization was created to support each answer: 
 
 How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+
 What are the coldest and the warmest months on Mars (at the location of Curiosity)? Get the answer by averaging the minimum daily temperature of all the months. 
+
 Which months have the lowest and the highest atmospheric pressure on Mars? Get the answer by averaging the daily atmospheric pressure of all the months. 
+
 About how many terrestrial (Earth) days exist in a Martian year? That is, in the time that Mars circles the Sun once, how many days elapse on Earth? Visually estimate the result by plotting the daily minimum temperature.
+
 How many months exist on Mars?
+
 Which month, on average, has the lowest temperature? The highest?
+
 Which month, on average, has the lowest atmospheric pressure? The highest?
+
 How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
 
 
